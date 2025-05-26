@@ -28,6 +28,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 
 </div>
 
